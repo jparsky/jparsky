@@ -15,12 +15,6 @@ I'm interested in software engineering, machine learning, scientific computing, 
 ### RSA Cryptography System — ARM Assembly
 Implemented an RSA encryption/decryption system in ARM Assembly, including key generation, modular arithmetic, primality checks, and message encryption/decryption.
 
-### Biophysics Image Analysis — Python, MATLAB, ImageJ
-Developed image deconvolution and analysis workflows for microscopy videos involving cytoskeletal dynamics.
-
-### Dynamical Systems Simulation — Python, MATLAB
-Built simulations to analyze convergence behavior in first-order dynamical systems using Fourier and Taylor approximation methods.
-
 ## Currently Learning
 
 - Machine learning and AI through my M.S. program at Johns Hopkins
