@@ -6,9 +6,9 @@ I'm interested in software engineering, machine learning, scientific computing, 
 
 ## Technical Skills
 
-**Languages:** Python, Java, C++, SQL, Bash, MATLAB, ARM Assembly, javaScript  
+**Languages:** Python, Java, C++, SQL, Bash, MATLAB, ARM Assembly, JavaScript
 
-**Tools & Platforms:** Linux, Git, VS Code, NetBeans, ImageJ, React
+**Tools & Platforms:** Linux, Git, VS Code, NetBeans, ImageJ, React, Vue
 
 **Technical Areas:** Object-Oriented Programming, Data Structures, Scientific Computing, Image Processing, Linear Algebra
 
