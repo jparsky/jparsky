@@ -2,7 +2,7 @@
 
 I'm an M.S. Computer Science student at Johns Hopkins University with a background in physics, mathematics, scientific computing, and technical operations management.
 
-I'm interested in software engineering, machine learning, scientific computing, and technical systems roles.
+I'm interested in software engineering, digital learning design, machine learning, scientific computing, and technical systems roles.
 
 ## Technical Skills
 
